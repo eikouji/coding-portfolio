@@ -12,9 +12,10 @@ JavaScript
 
 Design Template by HTML5 up.
 
-## Screen cap of Github Page ##
+## Gif of Webpage ##
 
-![coding-portfolio](https://user-images.githubusercontent.com/91100425/146663906-3c8800f7-fb3c-4187-8568-577f0a8d3dfc.jpg)
+
+![tinywow_to_gif_1834660](https://user-images.githubusercontent.com/91100425/163698383-3adcb751-7c12-4618-87cd-b55212da7d14.gif)
 
 
 ## Github Page URL ##
